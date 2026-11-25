@@ -1,0 +1,19 @@
+EPOCH: 0 |  Training loss: 6.967877945113262 | Validation loss: 6.34787758658914 | Ended at 80.30612397193909
+EPOCH: 1 |  Training loss: 5.8647211055562956 | Validation loss: 5.706118836122401 | Ended at 155.67478966712952
+EPOCH: 2 |  Training loss: 5.229385986071243 | Validation loss: 5.331736171946806 | Ended at 230.33250260353088
+EPOCH: 3 |  Training loss: 4.7463190724151305 | Validation loss: 5.040011602289536 | Ended at 305.40438294410706
+EPOCH: 4 |  Training loss: 4.346739093864004 | Validation loss: 4.899314880371094 | Ended at 380.6318018436432
+EPOCH: 5 |  Training loss: 3.9901605005617493 | Validation loss: 4.737023185281193 | Ended at 455.9973056316376
+EPOCH: 6 |  Training loss: 3.686722882267602 | Validation loss: 4.658490026698393 | Ended at 531.6414318084717
+EPOCH: 7 |  Training loss: 3.4235722071393972 | Validation loss: 4.534417418872609 | Ended at 606.727710723877
+EPOCH: 8 |  Training loss: 3.1976207169619473 | Validation loss: 4.482217466129976 | Ended at 683.2236721515656
+EPOCH: 9 |  Training loss: 2.9986414475874468 | Validation loss: 4.425943893544814 | Ended at 758.048975944519
+EPOCH: 10 |  Training loss: 2.830000544236565 | Validation loss: 4.431234934750726 | Ended at 830.1924157142639
+EPOCH: 11 |  Training loss: 2.673408668852013 | Validation loss: 4.372087745105519 | Ended at 905.6232354640961
+EPOCH: 12 |  Training loss: 2.536822061346035 | Validation loss: 4.302248688305125 | Ended at 981.1651151180267
+EPOCH: 13 |  Training loss: 2.407557882845201 | Validation loss: 4.332574297400082 | Ended at 1053.4206137657166
+EPOCH: 14 |  Training loss: 2.2966434919472896 | Validation loss: 4.314925263909733 | Ended at 1127.0100603103638
+EPOCH: 15 |  Training loss: 2.1874024960328433 | Validation loss: 4.315691008287318 | Ended at 1199.817581653595
+---Patience Reached---
+best validation loss obtained: 4.302248688305125
+Time taken for training: 1199.8176565170288
